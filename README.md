@@ -8,7 +8,7 @@ This GitHub repository is a curated collection of information on data science an
 
 No description for the moment.  
 
-![Example1](./documentation/example.png)
+![Example1](./documentation/example.jpg)
 
 ## Table of Contents
 
