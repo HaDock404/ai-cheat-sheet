@@ -1,4 +1,4 @@
-# CHEAT SHEET
+# AI Cheat Sheet
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
